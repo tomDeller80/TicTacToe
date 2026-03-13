@@ -26,7 +26,6 @@ A modern, terminal-based Tic-Tac-Toe game built with **Python**, powered by **Nu
 1. **Clone this repository:**
    ```bash
    git clone [https://github.com/tomDeller80/TicTacToe.git](https://github.com/tomDeller80/TicTacToe.git)
-   cd tictactoe-pro
    ```
 
 2. **Install the required dependencies:**
